@@ -27,24 +27,22 @@ http://13.126.251.220/pet-adoption/
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](Screenshot 2026-04-26 011503.png)
+![Homepage](Screenshot%202026-04-26%20011503.png)
 
 ### 🐾 Pets Page
-![Pets](Screenshot 2026-04-26 011523.png)
+![Pets](Screenshot%202026-04-26%20011523.png)
 
 ### 🔐 Login Page
-![Login](Screenshot 2026-04-26 011607.png)
+![Login](Screenshot%202026-04-26%20011607.png)
 
 ### 📝 Register Page
-![Register](Screenshot 2026-04-26 011711.png)
+![Register](Screenshot%202026-04-26%20011711.png)
 
 ### ⚙️ Admin Dashboard
-![Admin](Screenshot 2026-04-26 011741.png)
+![Admin](Screenshot%202026-04-26%20011741.png)
 
 ### 🐕 Manage Pets
-![Manage Pets](Screenshot 2026-04-26 011809.png)
+![Manage Pets](Screenshot%202026-04-26%20011809.png)
 
 ### 📋 Manage Requests
-![Requests](Screenshot 2026-04-26 011950.png)
-
-## 📁 Project Structure
+![Requests](Screenshot%202026-04-26%20011950.png)
