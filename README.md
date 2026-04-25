@@ -24,28 +24,6 @@ http://13.126.251.220/pet-adoption/
 | Frontend | Bootstrap 5.3 |
 | Cloud | AWS EC2 Ubuntu 24.04 |
 
-## 📸 Screenshots
-
-### 🏠 Homepage
-![Homepage](Screenshot 2026-04-26 011503.png)
-
-### 🐾 Pets Page
-![Pets](Screenshot 2026-04-26 011523.png)
-
-### 🔐 Login Page
-![Login](Screenshot 2026-04-26 011607.png)
-
-### 📝 Register Page
-![Register](Screenshot 2026-04-26 011711.png)
-
-### ⚙️ Admin Dashboard
-![Admin](Screenshot 2026-04-26 011741.png)
-
-### 🐕 Manage Pets
-![Manage Pets](Screenshot 2026-04-26 011809.png)
-
-### 📋 Manage Requests
-![Requests](Screenshot 2026-04-26 011950.png)
 
 ## 📁 Project Structure
 pet-adoption/
