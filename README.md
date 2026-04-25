@@ -72,7 +72,7 @@ sudo mysql < /var/www/html/pet-adoption/database.sql
 sudo systemctl restart apache2
 
 ### 5. Open Browser
-http://http://13.126.251.220/pet-adoption//pet-adoption/
+http://13.126.251.220/pet-adoption/
 
 ## 👤 Login Details
 | Role | Email | Password |
